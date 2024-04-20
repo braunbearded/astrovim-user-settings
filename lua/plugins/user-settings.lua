@@ -37,6 +37,7 @@ return {
         ["<Leader>amc"] = { ":Gen Make_Concise<cr>", desc = "Make Consise" },
         ["<Leader>aml"] = { ":Gen Make_List<cr>", desc = "Make List" },
         ["<Leader>amt"] = { ":Gen Make_Table<cr>", desc = "Make Table" },
+        ["<Leader>ame"] = { ":Gen List_Enhance_Text_Custom<cr>", desc = "Make List with Enhancements" },
         ["<Leader>ar"] = { ":Gen Review_Code<cr>", desc = "Review Code" },
         ["<Leader>au"] = { ":Gen Change_Code<cr>", desc = "Change Code" },
         ["<Leader>a"] = { desc = "AI" },
